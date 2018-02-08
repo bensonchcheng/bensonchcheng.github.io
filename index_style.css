@@ -1,0 +1,14 @@
+/* Style Sheet for index.html */
+/* index_style.css */
+/* Assignment 1 */
+/* by Benson Cheng */
+
+body {
+    background-color: white;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    margin-left: 100px;
+}
