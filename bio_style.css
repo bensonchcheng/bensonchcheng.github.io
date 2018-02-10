@@ -14,11 +14,15 @@ h4 {
     font-family: "Avenir Next";
     text-align: center;
     padding-top: 10%;
+    padding-bottom: 2%;
 }
 
 p {
     color: black;
     font-size: 14px;
     font-family: 'Avenir Next';
-    text-align: center;
+    text-align: left;
+    margin-left: 31%;
+    margin-right: 31%;
+
 }
